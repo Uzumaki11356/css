@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    font-family: spotify-circular,Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    height: 969px;
+    background-color: rgb(41,65,171);
+    background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+    background-size: 175%;
+    background-position: 46% 4%;
+}
+footer{
+    height: 530px;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.nav-menu {
+    padding: 28px 17px;
+}
+.nav-menu a{
+     color: white;
+     font-size: 16px;
+     font-weight: 700;
+     padding: 28px 17px 28px 17px;
+}
+.nav-logo{
+    display: flex;
+    align-items: center;
+    padding: 30px 19px;
+}
